@@ -33,6 +33,7 @@
     "lint:js": "eslint src/**/*.{js,jsx}",
     "deploy": "gh-pages -d build"
   },
+  "license": "MIT",
   "eslintConfig": {
     "extends": [
       "react-app",
