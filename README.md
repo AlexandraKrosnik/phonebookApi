@@ -5,5 +5,7 @@
 та налаштування додаткових можливостей [зверніться до документації]
 (https://facebook.github.io/create-react-app/docs/getting-started).
 
+# License
+
 <div aling="center">
 MIT licensed | Copyright © 2022 Krosnik Olexandra <a href="./LICENSE.md">License file</a></div>
